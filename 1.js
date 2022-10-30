@@ -1,3 +1,5 @@
+//Atividade JavaScript (1)
+
 let array = ['YMCA']
 verificaArray(array)
 
